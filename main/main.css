@@ -1,0 +1,41 @@
+
+ header {
+display: flex;
+background: #FFFFFF;
+border-radius: 0px;   
+}
+
+.container {
+margin-right: 120px;
+margin: auto;
+margin-left: 600px;
+}
+.nav-img {
+position: absolute;
+left: 0%;
+right: 0.14%;
+top: 0%;
+bottom: 0.33%;
+margin-top: 50px;
+margin-left: 120px;
+}
+.nav-li {
+ 
+font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+margin: 25px;
+}
+.nav-ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav-a {
+    text-decoration: none;
+} 
+
+
